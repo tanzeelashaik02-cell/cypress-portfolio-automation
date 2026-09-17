@@ -1,0 +1,13 @@
+{
+  "name": "cypress-portfolio-automation",
+  "version": "1.0.0",
+  "description": "Cypress UI automation framework (Page Object Model) demonstrating client onboarding, account opening, and cash transaction testing patterns used in wealth management / investment operations QA.",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
